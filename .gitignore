@@ -2,6 +2,7 @@
 Lib/
 Scripts/
 pyvenv.cfg
+base_statics/global/image/bootstrap-icons/
 # Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
